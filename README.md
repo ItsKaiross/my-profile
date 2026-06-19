@@ -77,7 +77,10 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 **AI Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-4D6BFE?style=flat-square&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logoColor=white)
+
 
 ---
 
