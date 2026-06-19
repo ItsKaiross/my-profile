@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg?raw=true" width="120" style="border-radius:50%;" />
+![Mark](https://github.com/ItsHarukiii/ItsHarukiii/blob/2ded0feb1bab4a89670d3bf9eae6fa4e857422cf/Haruki.jpg?raw=true)
 
 # Mark Junelle Manahan
 
