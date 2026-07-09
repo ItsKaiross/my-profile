@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" width="180" style="border-radius:50%;" />
+<img src="https://github.com/ItsKaiross/ItsKaiross/blob/main/Haruki.jpg?raw=true" style="border-radius:50%;" />
 
 # Hi, I'm Mark Junelle 👋
 
