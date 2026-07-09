@@ -47,7 +47,7 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ItsHarukiii&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true" />
 
 </div>
 
