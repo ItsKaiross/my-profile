@@ -31,18 +31,6 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItsKaiross&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItsKaiross&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
