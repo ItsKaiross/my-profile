@@ -24,8 +24,8 @@ Konichiwa! I'm **Mark Junelle**, a fast learner who's eager to sharpen my skills
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ItsHarukiii">
-    <img src="https://img.shields.io/badge/GitHub-ItsHarukiii-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ItsKaiross">
+    <img src="https://img.shields.io/badge/GitHub-ItsKaiross-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
