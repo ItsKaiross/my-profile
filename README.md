@@ -80,10 +80,6 @@ I enjoy building web applications, editing engaging videos, creating eye-catchin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsKaiross&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKaiross&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=ItsKaiross&theme=tokyonight&hide_border=true"/>
 
 </div>
